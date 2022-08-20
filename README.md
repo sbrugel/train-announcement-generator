@@ -19,6 +19,6 @@ Most of the output will make zero sense to someone who knows even a slight chunk
 ## Acknowledgements
 ScotRail holds the copyright in the audio files. Under their [publication scheme](https://www.scotrail.co.uk/about-scotrail/information-requests/scotrail-trains-limited-publication-scheme), these files can be copied/reproduced without formal permission, such that they are copied/reproduced accurately, not used in a misleading context, and the source of the material is identified.
 
-Audio downloaded from [here (Google Drive)](https://drive.google.com/drive/folders/172W6sXnvlr7UcNLipO8BTw417_KRz9c5)
-
-CSV file originally created by Matt Eason, [source here.](https://docs.google.com/spreadsheets/d/1jAtNLBXLYwTraaC_IGAAs53jJWWEQUtFrocS5jW31JM/edit#gid=2073317291) It was  modified by myself to remove extra stuff like emojis to make it easier for the program to parse.
+- Original, unspliced announcement audio is available [here](https://files.scotrail.co.uk/ScotRail_Station_Announcements_June2022.mp3).
+- Audio spliced by Matt Eason, all files can be downloaded from [here (Google Drive)](https://drive.google.com/drive/folders/172W6sXnvlr7UcNLipO8BTw417_KRz9c5)
+- CSV file in '/data' originally created by Matt Eason, [source here.](https://docs.google.com/spreadsheets/d/1jAtNLBXLYwTraaC_IGAAs53jJWWEQUtFrocS5jW31JM/edit#gid=2073317291) It was modified by myself to remove extra stuff like emojis to make it easier for the program to parse.
